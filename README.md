@@ -1,4 +1,4 @@
-It is a web app used for ordering food items. It conists of -:
+![Untitled-2023-06-17-1552](https://github.com/Pursharthzutshi/food-ordering-website-client/assets/24863656/c504a99e-a63a-4681-a72a-60a00dc03610)It is a web app used for ordering food items. It conists of -:
 
 Home page, 
 Login/sign-up page,
@@ -13,4 +13,3 @@ In this website styling is done by pure CSS without using any CSS framework.
 
 
 Uploading screen-capture (31).mp4…
-
