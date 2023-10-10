@@ -12,4 +12,7 @@ In this website styling is done by pure CSS without using any CSS framework.
 
 
 
-Uploading screen-capture (31).mp4…
+
+
+https://github.com/Pursharthzutshi/food-ordering-website-client/assets/24863656/c40ee3bb-6045-4c16-be76-407efdb22dfd
+
